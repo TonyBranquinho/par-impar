@@ -1,0 +1,7 @@
+C:\temp\ws-vs2019\par impar\par impar\obj\Debug\par impar.csproj.AssemblyReference.cache
+C:\temp\ws-vs2019\par impar\par impar\obj\Debug\par impar.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\par impar\par impar\bin\Debug\par impar.exe.config
+C:\temp\ws-vs2019\par impar\par impar\bin\Debug\par impar.exe
+C:\temp\ws-vs2019\par impar\par impar\bin\Debug\par impar.pdb
+C:\temp\ws-vs2019\par impar\par impar\obj\Debug\par impar.exe
+C:\temp\ws-vs2019\par impar\par impar\obj\Debug\par impar.pdb
